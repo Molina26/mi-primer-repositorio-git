@@ -7,3 +7,5 @@ let Ingrediente = {
 function indicarNombre(nombre){
     console.log(`El nombre es ${nombre}`);
 }
+
+//Se soliciona el error
